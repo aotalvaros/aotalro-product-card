@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el ProductCard Debe de incrementar el contador 1`] = `
+<div
+  className="productCard undefined"
+>
+  <h1>
+    Product Card
+  </h1>
+  <span>
+    0
+  </span>
+  <button
+    onClick={[Function]}
+  />
+</div>
+`;
+
+exports[`Pruebas en el ProductCard debe de mostrar el componente correctamente 1`] = `
+<div
+  className="productCard undefined"
+>
+  <h1>
+    Product Card
+  </h1>
+</div>
+`;
+
+exports[`Pruebas en el ProductTitle debe de mostrar el componente correcto con la imagen personalizado 1`] = `
+<img
+  alt="Product"
+  className="productImg undefined"
+  src="algo.jpg"
+/>
+`;
+
+exports[`Pruebas en el ProductTitle debe mostrar el componente con la imagen del producto 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product"
+    className="productImg undefined"
+    src="./coffee-mug.png"
+  />
+</div>
+`;

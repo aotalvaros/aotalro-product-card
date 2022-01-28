@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el ProductIMage debe de mostrar el componente correcto con la imagen personalizado 1`] = `
+<img
+  alt="Product"
+  className="productImg undefined"
+  src="algo.jpg"
+/>
+`;
+
+exports[`Pruebas en el ProductIMage debe mostrar el componente con la imagen del producto 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product"
+    className="productImg undefined"
+    src="./coffee-mug.png"
+  />
+</div>
+`;
+
+exports[`Pruebas en el ProductImage debe de mostrar el componente correcto con la imagen personalizado 1`] = `
+<img
+  alt="Product"
+  className="productImg undefined"
+  src="algo.jpg"
+/>
+`;
+
+exports[`Pruebas en el ProductImage debe mostrar el componente con la imagen del producto 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product"
+    className="productImg undefined"
+    src="./coffee-mug.png"
+  />
+</div>
+`;
+
+exports[`Pruebas en el ProductTitle debe de mostrar el componente correcto con la imagen personalizado 1`] = `
+<img
+  alt="Product"
+  className="productImg undefined"
+  src="algo.jpg"
+/>
+`;
+
+exports[`Pruebas en el ProductTitle debe mostrar el componente con la imagen del producto 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product"
+    className="productImg undefined"
+    src="./coffee-mug.png"
+  />
+</div>
+`;
